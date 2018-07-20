@@ -1,0 +1,3 @@
+[submodule "deps/AxpPackerTLBB-EE"]
+	path = deps/AxpPackerTLBB-EE
+	url = https://gitlab.com/HadesD/AxpPackerTLBB-EE.git
